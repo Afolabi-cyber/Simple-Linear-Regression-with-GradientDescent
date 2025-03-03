@@ -74,10 +74,5 @@ where:
 - The **learning rate** $\alpha$ determines how fast the model learns.
 - The algorithm continues **until convergence** (or for a fixed number of iterations).
 
----
-
-### **💻 Implementation**
-To see the actual Python implementation, check out the **[code here](link-to-your-repo)**.
-
 Let me know if you need modifications! 🚀
 
